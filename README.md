@@ -1,6 +1,8 @@
 ### Hello! I'm Lance. 👋
 
-Nice to meetcha!
+Nice to meetcha! 
+
+I'm a Web Developer who works with React on the frontend, and Nodejs/Expressjs on the backend. I love to tinker, troubleshoot, and document programs to help others.
 
 - 🔭 I’m currently working on improving my understanding of Computer Science fundamentals
 - 🌱 I’m currently learning Python as a JavaScript person
