@@ -1,6 +1,8 @@
-### Hello! I'm Lance. 👋
+![profile-banner](./lance-profile-banner.png)
 
-Nice to meetcha! 
+# Hello! I'm Lance. 👋
+
+### Nice to meetcha! 
 
 I'm a Web Developer who works with React on the frontend, and Nodejs/Expressjs on the backend. I love to tinker, troubleshoot, and document programs to help others.
 
