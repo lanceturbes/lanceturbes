@@ -21,8 +21,10 @@ I love to tinker, troubleshoot, and provide tech support to others when they nee
 
 ## Technologies I Use
 
-**Languages:** HTML, CSS, JavaScript/Node, Python, SQL
+**Languages:** HTML, CSS, JavaScript/Node, SQL, Python
 
 **Frameworks:** React, Express, Jest
 
-**Libraries:** React Router, Redux, React Testing Library, SuperTest, Yup
+**Libraries:** React Router, Redux, React Testing Library, SuperTest, Yup, Knex
+
+**Tools:** Visual Studio Code, Postman, Git, Slack, Zoom, Discord, DBeaver/pgAdmin
