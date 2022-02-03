@@ -16,7 +16,7 @@ I love to tinker, troubleshoot, and provide tech support to others when they nee
 
 ### Find me on...
 
-[![Lance Turbes LinkedIn]](https://img.shields.io/badge/Lance_Turbes-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lanceturbes/)
+[![Lance Turbes LinkedIn](https://img.shields.io/badge/Lance_Turbes-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lanceturbes/)
 [![WaywardPooch Steam](https://img.shields.io/badge/WaywardPooch-black?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/WaywardPooch)
 
 ## Technologies I Use
