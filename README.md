@@ -4,7 +4,7 @@
 
 ### Nice to meet ya! 
 
-I'm a Web Developer who works with React on the frontend, and Node via the Express framework on the backend. I'm currently a student at the Bloom Institute of Technology working to build and improve my technical and interpersonal developer skills. 
+I'm a Web Developer who works with React on the frontend, and Node via the Express framework on the backend.
 
 I love to tinker, troubleshoot, and provide tech support to others when they need help. I have been a long time GNU/Linux Desktop user, and have experience with software installation and quickly getting computers up and running, as a "distro-hopper" always anxious to try new things.
 
