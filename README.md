@@ -16,26 +16,14 @@ Fun fact: I assembled my first personal computer before I turned 14; I still use
 
 ## Technologies I Use
 
-### 🌐 Languages:
+🌐 **Languages**: JavaScript, TypeScript, SQL, HTML5, CSS3, SASS, LESS
 
-JavaScript, TypeScript, SQL, HTML5, CSS3, SASS, LESS
+⚙️ **Frameworks**: React, React Native, Express, Jest, Cypress
 
-### ⚙️ Frameworks:
+📚 **Libraries**: React Router, Redux, React Testing Library, PostgreSQL, SQLite, Knex.js, JWT, SuperTest, Yup, bcrypt
 
-React, React Native, Express, Jest, Cypress
+🧰 **Tools**: Git, Visual Studio Code, Chrome/Brave, Postman, DBeaver, pgAdmin, Slack, Discord, Zoom
 
-### 📚 Libraries:
+📀 **Platforms**: Debian, Ubuntu, Fedora, Arch Linux, Windows, Android
 
-React Router, Redux, React Testing Library, PostgreSQL, SQLite, Knex.js, JWT, SuperTest, Yup, bcrypt
-
-### 🧰 Tools:
-
-Git, Visual Studio Code, Chrome/Brave, Postman, DBeaver, pgAdmin, Slack, Discord, Zoom
-
-### Platforms:
-
-Debian, Ubuntu, Fedora, Arch Linux, Windows, Android
-
-### ⏫ Deployment:
-
-Netlify, Heroku, Vercel
+⏫ **Deployment**: Netlify, Heroku, Vercel
