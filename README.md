@@ -4,11 +4,7 @@
 
 ### Nice to meet ya! 
 
-I'm a Web Developer who works with React on the frontend and Node.js + Express on the backend.
-
-I love to tinker, troubleshoot, and provide tech support to others when they need help. I have been a long time GNU/Linux Desktop user, and have experience with software installation and quickly getting computers up and running, as a "distro-hopper" always anxious to try new things.
-
-Fun fact: I assembled my first personal computer before I turned 14; I still use it, today. :-)
+I'm a Web Developer who loves to tinker, troubleshoot, and provide tech support to others when they need help. I have been a long time GNU/Linux Desktop user, and have experience with software installation and quickly getting computers up and running. Always anxious to try new things.
 
 ### Find me on...
 
@@ -16,14 +12,12 @@ Fun fact: I assembled my first personal computer before I turned 14; I still use
 
 ## Technologies I Use
 
-🌐 **Languages**: JavaScript, TypeScript, SQL, HTML5, CSS3, SASS, LESS
+🌐 **Languages**: HTML/CSS/JavaScript, TypeScript, C#
 
-⚙️ **Frameworks**: React, React Native, Express, Jest, Cypress
+⚙️ **Frameworks**: React/React Native, Vue, Express, .NET
 
-📚 **Libraries**: React Router, Redux, React Testing Library, PostgreSQL, SQLite, Knex.js, JWT, SuperTest, Yup, bcrypt
+🧰 **Tools**: Git, Visual Studio Code, Chrome/Brave, Postman, Slack, Discord, Zoom
 
-🧰 **Tools**: Git, Visual Studio Code, Chrome/Brave, Postman, DBeaver, pgAdmin, Slack, Discord, Zoom
+📀 **Platforms**: Ubuntu, MacOS, Windows, Android
 
-📀 **Platforms**: Debian, Ubuntu, Fedora, Arch Linux, Windows, Android
-
-⏫ **Deployment**: Netlify, Heroku, Vercel
+⏫ **Deployment**: Netlify, Vercel, Azure
