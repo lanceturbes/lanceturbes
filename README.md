@@ -4,7 +4,7 @@
 
 ### Nice to meet ya! 
 
-I'm a Web Developer who loves to tinker, troubleshoot, and provide tech support to others when they need help. I have been a long time GNU/Linux Desktop user, and have experience with software installation and quickly getting computers up and running. Always anxious to try new things.
+I'm a Mid-Level Web Developer who loves to tinker, troubleshoot, and provide tech support to others when they need help. I have been a long time GNU/Linux Desktop user, and have experience with software installation and quickly getting computers up and running. Always anxious to try new things.
 
 ### Find me on...
 
@@ -14,10 +14,10 @@ I'm a Web Developer who loves to tinker, troubleshoot, and provide tech support 
 
 🌐 **Languages**: HTML/CSS/JavaScript, TypeScript, C#
 
-⚙️ **Frameworks**: React/React Native, Vue, Express, .NET
+⚙️ **Technologies**: Node.js, Express.js, Deno, React Native, Vue.js, .NET, ASP.NET, HTMX
 
 🧰 **Tools**: Git, NeoVim, Visual Studio Code, Chrome, Postman, Slack/Discord, Zoom/Google Meet
 
-📀 **Platforms**: Ubuntu, MacOS, Windows, Android
+📀 **Platforms**: Linux (Debian/Ubuntu, Fedora, Arch), MacOS, Windows, Android
 
-⏫ **Deployment**: Netlify, Vercel, Azure
+⏫ **Deployment**: Netlify, Vercel, Azure DevOps
