@@ -16,7 +16,7 @@ I'm a Web Developer who loves to tinker, troubleshoot, and provide tech support 
 
 ⚙️ **Frameworks**: React/React Native, Vue, Express, .NET
 
-🧰 **Tools**: Git, Visual Studio Code, Chrome/Brave, Postman, Slack, Discord, Zoom
+🧰 **Tools**: Git, NeoVim, Visual Studio Code, Chrome, Postman, Slack/Discord, Zoom/Google Meet
 
 📀 **Platforms**: Ubuntu, MacOS, Windows, Android
 
