@@ -24,7 +24,7 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanceturbes&hide=javascript,objective-c,objective-c%2B%2B,java,ruby&theme=transparent&layout=compact" alt="lanceturbes" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lanceturbes&" alt="lanceturbes" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lanceturbes&theme=transparent" alt="lanceturbes" />
 </div>
 
 ---
