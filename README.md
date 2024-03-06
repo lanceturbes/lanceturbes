@@ -1,10 +1,8 @@
 # Lance Turbes
 
+![profile-banner](./lance-profile-banner.png)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flanceturbes%2Flanceturbes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
 
 [![Github](https://img.shields.io/github/followers/lanceturbes?label=Follow&style=social)](https://github.com/lanceturbes)
 
@@ -28,7 +26,6 @@
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lanceturbes&show_icons=true&locale=en&layout=compact" alt="lanceturbes" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lanceturbes&" alt="lanceturbes" />
 </div>
-
 
 ---
 :zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
